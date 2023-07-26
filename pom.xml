@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<version>1.0.0-SNAPSHOT</version>
 	
-	<name>maven-web-application-FORSONAR</name>
+	<name>maven-web-application-ForSONARJCodeReview</name>
 
 	<description>Maven Web Project for Java Project</description>
 
