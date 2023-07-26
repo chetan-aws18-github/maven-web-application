@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>maven-web-application-1</artifactId>
+	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>5.0.0-SNAPSHOT</version>
+	<version>6.0.0-SNAPSHOT</version>
 	
-	<name>maven-web-application-18</name>
+	<name>maven-web-application-NAMETAG</name>
 
 	<description>Maven Web Project for Java Project</description>
 
@@ -110,7 +110,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-application</finalName>
+		<finalName>maven-web-application-FINALNAMETAG</finalName>
 		
 		<plugins>
 			<plugin>
@@ -143,7 +143,7 @@
 					<downloadSources>true</downloadSources>
 					<downloadJavadocs>true</downloadJavadocs>
 					<wtpversion>2.0</wtpversion>
-					<wtpContextName>maven-web-application</wtpContextName>
+					<wtpContextName>maven-web-application-CONTEXTNAME</wtpContextName>
 				</configuration>
 			</plugin>
 			
