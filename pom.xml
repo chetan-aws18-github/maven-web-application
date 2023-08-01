@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<version>2.0.0-SNAPSHOT</version>
 	
-	<name>maven-web-application-ForSONARCodeReview-2</name>
+	<name>maven-web-application-ForSONARCodeReview-JenkinsPIPELINE</name>
 
 	<description>Maven Web Project for Java Project</description>
 
