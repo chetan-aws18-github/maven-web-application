@@ -110,7 +110,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-application-FinalName-JENKINS-PIPELINE</finalName>
+		<finalName>maven-web-application-FinalName-JENKINS-FREESTYLE</finalName>
 		
 		<plugins>
 			<plugin>
