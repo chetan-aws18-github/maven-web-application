@@ -7,7 +7,7 @@
 	<packaging>war</packaging>
 	<version>2.0.0-SNAPSHOT</version>
 	
-	<name>maven-web-application-ForSONARCodeReview-JENKINS-FREESTYLE</name>
+	<name>maven-web-application-ForSONARCodeReview-JENKINS-PIPELINE</name>
 
 	<description>Maven Web Project for Java Project</description>
 
@@ -110,7 +110,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-application-FinalName-JENKINS-FREESTYLE</finalName>
+		<finalName>maven-web-application-FinalName-JENKINS-PIPELINE</finalName>
 		
 		<plugins>
 			<plugin>
